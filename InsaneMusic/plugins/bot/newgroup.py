@@ -14,5 +14,5 @@ async def on_new_chat_members(client: Client, message: Message):
         added_by = message.from_user.mention if message.from_user else "ᴜɴᴋɴᴏᴡɴ ᴜsᴇʀ"
         title = message.chat.title
         chat_id = message.chat.id
-        Insane = f"#ɴᴇᴡ ɢʀᴏᴜᴘ\n\nᴄʜᴀᴛ ɪᴅ : {chat_id}\nᴄʜᴀᴛ ᴛɪᴛʟᴇ : {title}\nᴀᴅᴅᴇᴅ ʙʏ : {added_by}"
-        await new_message(LOG_GROUP_ID, Insane)
+        Queenmusic = f"#ɴᴇᴡ ɢʀᴏᴜᴘ\n\nᴄʜᴀᴛ ɪᴅ : {chat_id}\nᴄʜᴀᴛ ᴛɪᴛʟᴇ : {title}\nᴀᴅᴅᴇᴅ ʙʏ : {added_by}"
+        await new_message(LOG_GROUP_ID, Queenmusic)

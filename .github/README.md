@@ -1,15 +1,15 @@
-<h1 align="center"><b>❤️ Insane MUSIC BOT ❤️</b></h1>
+<h1 align="center"><b>❤️ QUEEN-MUSIC-BOT❤️</b></h1>
 
-<h4 align="center">Team Insane Music Bot repo <br>Insane Music A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...<br</h4>
+<h4 align="center">Dangerop QUEEN-Music Bot repo <br>Queen Music A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...<br</h4>
 
-<p align="center"><a href="https://t.me/always_hungry365"><img src="https://telegra.ph/file/e5938d9ca8fb7c2724f80.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/always_hungry365"><img src="https://telegra.ph/file/2cacc32fd79da46c7b0dc.jpg" width="400"></a></p>
 
 
-> ⭐️ Thanks to everyone for using Insane, That is the greatest pleasure we have !
+> ⭐️ Thanks to everyone for using Queen-music, That is the greatest pleasure we have !
 
-### Insane– History
+### Dangerop– History
 
-<a href="https://www.youtube.com/JankariKiDuniya"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+<a href="https://youtube.com/@dhnnu_choudhary?si=4zlTtGIfUWhEo53S"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
 
 ## Features Of Insane And Commands ❤️
@@ -108,9 +108,9 @@
 <details>
 <summary><b>sᴄᴀʟɪɴɢᴏ</b></summary>
 <br>
-ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ Insane ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
+ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ Queen-music ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
         
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/TheTeamInsane/TeamInsaneMusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/Dangerop/Queenmusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
     
 </details>
 
@@ -136,7 +136,7 @@
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/TheTeamInsane/TeamInsaneMusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Dangerop/Queenmusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 </details>
 
 <details>
@@ -158,7 +158,7 @@ curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash - && sudo apt-ge
 sudo apt install git
 ```
 ```
-git clone https://github.com/TheTeamInsane/TeamInsaneMusic && cd TeamInsaneMusic
+git clone https://github.com/Dangerop/Queenmusic && cd Queenmusic
 ```
 ```
 pip3 install -U -r requirements.txt
@@ -185,20 +185,20 @@ bash start
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ʟᴏɢɪ ʟᴀʙ](https://github.com/LOGI-LAB)
-- [ʜᴀʀsʜɪᴛ](https://t.me/HarshitSharma361)
-- [Abhimanyu](https://t.me/Itz_Venom_xD)
-- [ʏᴜᴋᴋɪ](https://github.com/NotReallyShikhar)
-- [ᴀɴᴏɴʏᴍᴏᴜs](https://github.com/TheAnonymous2005)
+- [Dangerop](https://t.me/D4nGeR_0pBolte)
+- [vps_details](https://t.me/Vps_Available)
+- [ABOUT DANGEROP](https://t.me/ABOUT_CHOUDHARY)
+- [choudhary help](https://t.me/helping_support)
+- [LIVE EARNING](https://t.me/liyakritkaofficial)
+- [Queen update](https://t.me/Qn_bot_updates)
 </details>
 
 <details>
 <summary><b>ʙʀᴏᴛʜᴇʀ</b></summary>
 <br>
 
-- [ᴀsᴀᴅ ᴀʟɪ](https://t.me/Dr_Asad_Ali)
-- [ᴅᴇᴠɪʟ](https://t.me/its_devil_911)
+- [vps hosting](https://t.me/Vps_Available)
+- [Dangerop](https://t.me/ABOUT_CHOUDHARY)
 
 </details>
 
@@ -207,9 +207,9 @@ bash start
 <br>
 
 # ❤️ Support<
-<a href="https://t.me/Insane_Help365"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/Dosto_ki_Mehfil786"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Insane_Help365"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Queen_HELP365"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/helping_support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/Queen_Help365"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 
@@ -220,7 +220,7 @@ bash start
 <summary><b>ʟɪʙʀᴀʀɪᴇs</b></summary>
 <br>
 
-ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ Insane:
+ᴛʜᴀɴᴋs ᴛᴏ ᴀʟʟ ᴏғ ʏᴏᴜ ғᴏʀ ᴜsɪɴɢ ᴀɴᴅ ᴍᴀᴋɪɴɢ Queenmusic:
 
 - [Pyrogram](https://github.com/pyrogram/pyrogram)
 - [Py-Tgcalls](https://github.com/pytgcalls/pytgcalls)

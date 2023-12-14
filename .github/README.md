@@ -2,14 +2,14 @@
 
 <h4 align="center">Dangerop QUEEN-Music Bot repo <br>Queen Music A Powerful, Smart And Simple Bot To Play Audio And Video Song In Telegram<br> ... Written With Python and Telethon...<br</h4>
 
-<p align="center"><a href="https://t.me/always_hungry365"><img src="https://telegra.ph/file/2cacc32fd79da46c7b0dc.jpg" width="400"></a></p>
+<p align="center"><a href="https://t.me/EBD_QN"><img src="https://telegra.ph/file/2cacc32fd79da46c7b0dc.jpg" width="400"></a></p>
 
 
 > ⭐️ Thanks to everyone for using Queen-music, That is the greatest pleasure we have !
 
 ### Dangerop– History
 
-<a href="https://youtube.com/@dhnnu_choudhary?si=4zlTtGIfUWhEo53S"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
+<a href="https://youtube.com/@EBDQN?si=5IPeTAfWXFWh5Uak"><img src="https://img.shields.io/badge/Join-Subscribe%20Support-blue.svg?style=for-the-badge&logo=YouTube"></a>
 
 
 ## Features Of Insane And Commands ❤️
@@ -110,7 +110,7 @@
 <br>
 ɴᴏᴡ ʏᴏᴜ ᴄᴀɴ ᴅᴇᴘʟᴏʏ Queen-music ᴍᴜsɪᴄ ᴏɴ sᴄᴀʟɪɴɢᴏ ɪɴᴛʀᴏᴅᴜᴄᴇᴅ ʙʏ @ITZ-ZAID
         
-<p align="center"><a href="https://my.scalingo.com/deploy?template=https://github.com/Dangerop/Queenmusic"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
+<p align="center"><a href="https://my.scalingo.com/deploy?template=repolink"> <img src="https://cdn.scalingo.com/deploy/button.svg" width="220" height="38.45"/></a></p>
     
 </details>
 
@@ -123,7 +123,7 @@
 
 
 <h4> ɢᴇɴᴇʀᴀᴛᴇ sᴇssɪᴏɴ ᴠɪᴀ ᴛᴇʟᴇɢʀᴀᴍ sᴛʀɪɴɢ-ɢᴇɴ ʙᴏᴛ: </h4>    
-<p><a href="https://t.me/insane_session_robot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
+<p><a href="https://t.me/Tg_String_Session_Robot"><img src="https://img.shields.io/badge/TG%20String%20Gen%20Bot-blueviolet?style=for-the-badge&logo=appveyor" width="200""/></a></p>
     
 </details>
 
@@ -136,7 +136,7 @@
 > ᴛʜᴏsᴇ ᴛᴡᴏ ᴠᴀʀs ᴀʀᴇ ɴᴏᴛ ᴍᴀɴᴅᴀᴛᴏʀʏ, ʏᴏᴜ ᴄᴀɴ ʟᴇᴀᴠᴇ ᴛʜᴇᴍ ʙʟᴀɴᴋ ᴛᴏᴏ. 
     
 <h4> ᴄʟɪᴄᴋ ᴛʜᴇ ʙᴜᴛᴛᴏɴ ʙᴇʟᴏᴡ ᴛᴏ ᴅᴇᴘʟᴏʏ ʏᴜᴋᴋɪ ᴏɴ ʜᴇʀᴏᴋᴜ</h4>    
-<p><a href="https://dashboard.heroku.com/new?template=https://github.com/Dangerop/Queenmusic"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
+<p><a href="https://dashboard.heroku.com/new?template=repllink"><img src="https://img.shields.io/badge/Deploy%20To%20Heroku-red?style=for-the-badge&logo=heroku" width="200"/></a></p>
 </details>
 
 <details>
@@ -185,12 +185,11 @@ bash start
 
 ## sᴘᴇᴄɪᴀʟ ᴄʀᴇᴅɪᴛ
 
-- [Dangerop](https://t.me/D4nGeR_0pBolte)
+- [Ebd Qn](https://t.me/EBD_QN)
 - [vps_details](https://t.me/Vps_Available)
-- [ABOUT DANGEROP](https://t.me/ABOUT_CHOUDHARY)
-- [choudhary help](https://t.me/helping_support)
-- [LIVE EARNING](https://t.me/liyakritkaofficial)
-- [Queen update](https://t.me/Qn_bot_updates)
+- [ABOUT EBD](https://t.me/EBD_524)
+- [Ebd Qn help](https://t.me/EBD_QN_CHAT)
+- [Queen update](https://t.me/TheQueenUpdates)
 </details>
 
 <details>
@@ -198,7 +197,7 @@ bash start
 <br>
 
 - [vps hosting](https://t.me/Vps_Available)
-- [Dangerop](https://t.me/ABOUT_CHOUDHARY)
+- [EBD QN](https://t.me/EBD_QN)
 
 </details>
 
@@ -207,9 +206,9 @@ bash start
 <br>
 
 # ❤️ Support<
-<a href="https://t.me/Queen_HELP365"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
-<a href="https://t.me/helping_support"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
-<a href="https://t.me/Queen_Help365"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
+<a href="https://t.me/TheQueenUpdates"><img src="https://img.shields.io/badge/Join-Telegram%20Channel-red.svg?logo=Telegram"></a>
+<a href="https://t.me/EBD_QN_CHAT"><img src="https://img.shields.io/badge/Join-Telegram%20Group-blue.svg?logo=telegram"></a>
+<a href="https://t.me/EBD_QN_CHAT"><img src="https://img.shields.io/badge/Give-Me%20Heart-blue.svg?logo=telegram"></a>
 
 </details>
 

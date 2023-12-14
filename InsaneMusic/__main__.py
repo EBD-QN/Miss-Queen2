@@ -45,7 +45,7 @@ async def init():
     await userbot.start()
     await Insane.start()
     try:
-        await Insane.stream_call("https://telegra.ph/file/ed1e4016b2209a6d219cb.jpg")
+        await Insane.stream_call("https://telegra.ph/file/2cacc32fd79da46c7b0dc.jpg")
     except NoActiveGroupCall:
         LOGGER("InsaneMusic").error(
             "[ERROR] - \n\nHey Baby, firstly open telegram and turn on voice chat in Logger Group else fu*k off. If you ever ended voice chat in log group i will stop working and users will fu*k you up."
